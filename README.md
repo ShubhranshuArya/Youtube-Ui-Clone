@@ -1,6 +1,11 @@
-# youtube_ui_clone
+# YouTube UI Clone
 
-Youtube Ui Clone application using flutter
+Youtube Ui Clone using flutter
+
+## Ui Prototype 
+
+https://user-images.githubusercontent.com/77967955/165285931-787bada6-8a6b-4e40-a133-6c3f3a083b05.mp4
+
 
 ## Learnings
 
