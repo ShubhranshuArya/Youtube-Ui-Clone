@@ -2,10 +2,11 @@
 
 Youtube Ui Clone using flutter
 
+![Youtube-UI-Preview](https://user-images.githubusercontent.com/77967955/192439072-67d3dc5a-1364-4695-a67c-532cec6c9028.png)
+
 ## Ui Prototype 
 
 https://user-images.githubusercontent.com/77967955/165285931-787bada6-8a6b-4e40-a133-6c3f3a083b05.mp4
-
 
 ## Learnings
 
